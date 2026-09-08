@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+xarray>=2024.2
+numpy>=1.26
+dask[array]>=2024.2
+netCDF4>=1.6
+zarr>=2.17
+scipy>=1.12
+torch>=2.2 ; extra == "model"
