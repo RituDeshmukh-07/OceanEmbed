@@ -1,0 +1,116 @@
+{
+  "checkpoint": "D:\\Ritu\\SIH\\OceanEmbed\\outputs\\checkpoints\\best_model.pth",
+  "n_test_samples": 1500,
+  "per_depth": [
+    {
+      "depth_m": 0,
+      "rmse_degC": 0.23020033538341522,
+      "bias_degC": 0.00215030531398952,
+      "correlation": 0.9666185403115275,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 5,
+      "rmse_degC": 0.22898177802562714,
+      "bias_degC": 0.05376943573355675,
+      "correlation": 0.9655689793693224,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 10,
+      "rmse_degC": 0.2169962078332901,
+      "bias_degC": 0.02218967117369175,
+      "correlation": 0.968372192062288,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 20,
+      "rmse_degC": 0.2427893728017807,
+      "bias_degC": -0.023428181186318398,
+      "correlation": 0.9593036470030144,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 30,
+      "rmse_degC": 0.38990893959999084,
+      "bias_degC": -0.13725827634334564,
+      "correlation": 0.9036262114683469,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 50,
+      "rmse_degC": 0.9100374579429626,
+      "bias_degC": -0.04864628240466118,
+      "correlation": 0.5002695967920385,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 75,
+      "rmse_degC": 1.664470911026001,
+      "bias_degC": 0.787038266658783,
+      "correlation": 0.284771182435453,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 100,
+      "rmse_degC": 1.928778886795044,
+      "bias_degC": 1.0636566877365112,
+      "correlation": 0.17062535295793502,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 125,
+      "rmse_degC": 2.1376476287841797,
+      "bias_degC": 1.1144702434539795,
+      "correlation": 0.23652079504117587,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 150,
+      "rmse_degC": 1.9748249053955078,
+      "bias_degC": 0.9351559281349182,
+      "correlation": 0.4126534786146092,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 200,
+      "rmse_degC": 1.655953049659729,
+      "bias_degC": 0.6770211458206177,
+      "correlation": 0.5655220170880821,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 300,
+      "rmse_degC": 1.1302398443222046,
+      "bias_degC": 0.3591133654117584,
+      "correlation": 0.6641818935500627,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 500,
+      "rmse_degC": 0.8128442764282227,
+      "bias_degC": 0.27036356925964355,
+      "correlation": 0.6808734409356326,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 700,
+      "rmse_degC": 0.7686142921447754,
+      "bias_degC": 0.2710443437099457,
+      "correlation": 0.7160078477145321,
+      "n_valid": 1500
+    },
+    {
+      "depth_m": 1000,
+      "rmse_degC": 0.6566710472106934,
+      "bias_degC": 0.1086810901761055,
+      "correlation": 0.5922710235990201,
+      "n_valid": 1500
+    }
+  ],
+  "overall": {
+    "rmse_degC": 1.2070376873016357,
+    "bias_degC": 0.36368808150291443,
+    "correlation": 0.9880714593286899
+  }
+}

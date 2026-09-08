@@ -1,1 +1,11 @@
-data/raw/glorys/*.nc
+__pycache__/
+*.pyc
+
+data/raw/
+*.nc
+*.nc4
+
+outputs/checkpoints/
+*.pth
+
+.env
